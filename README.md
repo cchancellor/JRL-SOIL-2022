@@ -20,6 +20,11 @@ Vineyard,
 Plant community structure,
 Land abandonment
 
+### Literature Review
+
+[PDF of Literature review](https://github.com/cchancellor/JRL-SOIL-2022/files/8698846/Literature.review.pdf)
+
+
 ### The project's mascot
 <img src="https://i.pinimg.com/736x/3b/51/d4/3b51d43554bf7aa71d750329af700d81--pastel-drawing-pastel-art.jpg" width=200>
 
