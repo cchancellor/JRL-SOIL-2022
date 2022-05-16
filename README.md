@@ -7,6 +7,7 @@ Maelle Pélissier ([Github profile](https://github.com/MaellePelissier))
 
 ## Presentation and context about this project
 This project will examine how the composition of the soil, the species, and functional traits in abandoned vineyards compare at multiple stages of abandonment.
+<img src="https://www.frenchentree.com/property-for-sale/assets/content/properties/31503/photos/6.jpg?i=5&t=20181025-115853" width=200>
 
 ### Keywords
 Coastal landscape, 
