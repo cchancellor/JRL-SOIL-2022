@@ -12,5 +12,5 @@ Plant community structure,
 Land abandonment
 
 ### The project's mascot
-![Drawing of a squirrel](https://i.pinimg.com/736x/3b/51/d4/3b51d43554bf7aa71d750329af700d81--pastel-drawing-pastel-art.jpg)
+<img src="https://i.pinimg.com/736x/3b/51/d4/3b51d43554bf7aa71d750329af700d81--pastel-drawing-pastel-art.jpg" width=200>
 
