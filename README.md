@@ -1,7 +1,12 @@
 # JRL-SOIL-2022
+**Team members**
+
+Carston Chancellor ([Github profile](https://github.com/cchancellor)),
+Isabella Maria,
+Maelle Pélissier ([Github profile](https://github.com/MaellePelissier))
 
 ## Presentation and context about this project
-This project will examine how the composition of the soil, the species, and functional traits in abandoned vineyards compare at multiple stages of abandonment. It will give a better understanding of the ecological and pedological processes involved after the abandonment of vineyards.
+This project will examine how the composition of the soil, the species, and functional traits in abandoned vineyards compare at multiple stages of abandonment.
 
 ### Keywords
 Coastal landscape, 
