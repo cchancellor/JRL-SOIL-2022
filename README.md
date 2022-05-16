@@ -20,7 +20,7 @@ Vineyard,
 Plant community structure,
 Land abandonment
 
-### Literature Review
+## Literature Review
 
 [PDF of Literature review](https://github.com/cchancellor/JRL-SOIL-2022/files/8698846/Literature.review.pdf)
 
